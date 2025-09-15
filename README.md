@@ -33,6 +33,5 @@ There are already some initial files to get you started. Feel free to change
 them all as suits your solution. There is also a very rudamentary test for the
 `Elevator::Lift#request` method.
 
-You can run the tests by doing `rspec test` from the command line, and you can
-load up the app to play with by running `irb -r ./lib/elevator_lift` or by
-running `irb` and then doing `require_relative ./lib/elevator_lift`.
+You can run the tests by doing `rake test` (or simply `rake`) from the command
+line, and you can load up the app to play with by running `irb -r ./main`.
