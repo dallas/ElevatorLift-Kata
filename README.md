@@ -34,4 +34,4 @@ them all as suits your solution. There is also a very rudamentary test for the
 `Elevator::Lift#request` method.
 
 You can run the tests by doing `rake test` (or simply `rake`) from the command
-line, and you can load up the app to play with by running `irb -r ./main`.
+line, and you can load up the app to play with by running `rake console`.
